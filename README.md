@@ -9,7 +9,7 @@ yarn start
 
 #### Linting Options
 
-plugin name: eslint-plugin-functional
+plugin name: eslint-plugin-functional 
 Documentation Url: http://www.lib4dev.in/info/jonaskello/eslint-plugin-functional/194648815#supported-rules
 
 This package has a collection of eslint rules to promote functional programming style concepts. Note that you can use this package to enforce only some aspects of functional programming, for example only immutability. There are also options for the rules that allow you to gradually adopt a functional style. Most rules can be used both for JavaScript and TypeScript, however some rules, for example enforcing the readonly keyword, is of course only available for TypeScript.
@@ -38,7 +38,7 @@ ESlint Configuration : .eslintrc.js
 
 #### Developer Options as Middleware
 
-npm module : redux-immutable-state-invariant
+npm module : redux-immutable-state-invariant  
 repository link : https://github.com/leoasis/redux-immutable-state-invariant#readme
 
 Redux middleware that spits an error on you when you try to mutate your state either inside a dispatch or between dispatches. For development use only!
