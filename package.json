@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/redux-immutable-state-invariant": "^2.1.1",
     "immer": "^5.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
